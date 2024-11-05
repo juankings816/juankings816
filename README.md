@@ -1,6 +1,5 @@
-# juankings816
 <h1 align="center"> Hola 👋, mi nombre es Juan Reyes</h1>
-<a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></a>
+<a target="_blank" href="https://www.stefanosst.gr"><img src="[https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png](https://static.wixstatic.com/media/97b295_3349dbcd7e284899be41466def110e11~mv2.gif)"/></a>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
@@ -8,13 +7,13 @@
 </p>
 
 <pre>
-💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
-📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
-📝 I have a strong interest in building Frontend Uis for ML applications
-🔭 Working on Shopify Themes and React websites using Gatsby.js
-🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
+💻 Estoy desarrollando mis habilidades como Fullstack Developer, Soy muy entusiasta de las nuevas tecnologías queriendo siempre aprender de ellas.
+📚 Soy tecnologo en Analisis y Desarrollo de sistemas de información, cuento con diferentes certificados en Desarrollador Frontend en React, actualmente estoy estudiando en parquesoft Desarrollo de software.
+📝 Tengo un gran interés en la construcción de aplicaciones fullstack que generen un reto para aprender de ellas y mejorar día a día
+🔭 Actualmente me encuentro laboraldo como analista de datos en Telefonica Movistar, donde con mis conocimientos de programación automatizo procesos o busco mejorarlos.
+🌱 Centrándome en Aprender tecnologias y herramientas nuevas con el fin de solucionar las necesidades de los clientes y hacerles la vida más fácil creando aplicaciones de calidad y con funcionalidades eficaces
+🌟 Lenguajes principales: Javascript, Python, Java, SQL, NoSQL, CSS y HTML
+🚩 Interesado en el desarrollo de aplicaciones de machine learning full stack
 </pre>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
