@@ -32,6 +32,7 @@
 <a href="mailto:juanmanuelreyesgarcia816@gmail.com" >
   <img align="center" alt="Juankings816 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/juan-reyes-7aa446194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-reyes-7aa446194/" height="30" width="40" /></a>	
 <p>
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
