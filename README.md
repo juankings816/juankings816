@@ -23,9 +23,6 @@
   <h3><b>!Contactame </b></h3>
   </div>
 <p align="center">
-<a href="https://github.com/juankings816/" target="_blank">
-  <img align="center" alt="Juankings826 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
 <a href="/" target="_blank">
   <img align="center" alt="Juankings816 | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
